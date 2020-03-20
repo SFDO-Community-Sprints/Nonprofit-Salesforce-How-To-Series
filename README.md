@@ -27,21 +27,14 @@ The scripts in our current backlog are below. Note! You don't have to be an expe
 * Protect Your Data with an Effective Backup
 * NPSP Product Information for GDPR
 * Consent Management for NPSP
- 
 
 ## Translate exisiting NPSP Videography Scripts
 * Spanish
-
 * French
-
 * German
-
 * Japanese
-
 * Dutch
-
 * Hebrew
- 
 
 ## Do a part of the Annual Video Review Project
 Watch a 2-3 minute video and follow along in Salesforce, taking notes on any changes needed.
