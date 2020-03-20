@@ -29,7 +29,7 @@ The scripts in our current backlog are below. Note! You don't have to be an expe
 * Consent Management for NPSP
  
 
-## Translating exisiting NPSP Videography Scripts
+## Translate exisiting NPSP Videography Scripts
 * Spanish
 
 * French
@@ -43,6 +43,6 @@ The scripts in our current backlog are below. Note! You don't have to be an expe
 * Hebrew
  
 
-## Annual Video Review Project
+## Do a part of the Annual Video Review Project
 Watch a 2-3 minute video and follow along in Salesforce, taking notes on any changes needed.
  
