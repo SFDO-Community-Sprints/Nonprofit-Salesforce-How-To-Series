@@ -11,7 +11,7 @@ Volunteer and join the discussion on the [Power of Us Hub group](https://powerof
 
 Here are some of the great NPSP How-To Video projects you can help with right now:
 
-## Help write, edit, and review scripts
+## Write, edit, and review scripts
 The scripts in our current backlog are below. Note! You don't have to be an expert on the topic; you will be following documentation. But you probably *will* be an expert by the time you are done!
 
 * Enhanced Recurring Donations
