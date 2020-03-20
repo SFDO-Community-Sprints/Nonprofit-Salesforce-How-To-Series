@@ -10,7 +10,8 @@ Find all our videos at https://www.youtube.com/channel/UC8kDDLRZzDdOBS24al99Kag
 
 Here are some of the great NPSP How-To Video projects you can help with right now:
 
-## Help write, edit, and review scripts. The scripts in our current backlog are below. Note! You don't have to be an expert on the topic; you will be following documentation. But you probably *will* be an expert by the time you are done!
+## Help write, edit, and review scripts
+The scripts in our current backlog are below. Note! You don't have to be an expert on the topic; you will be following documentation. But you probably *will* be an expert by the time you are done!
 
 -Enhanced Recurring Donations
 
@@ -38,7 +39,7 @@ Here are some of the great NPSP How-To Video projects you can help with right no
 -Consent Management for NPSP
  
 
-## Translating exisiting NPSP Videography Scripts into:
+## Translating exisiting NPSP Videography Scripts
 -Spanish
 
 -French
@@ -52,5 +53,6 @@ Here are some of the great NPSP How-To Video projects you can help with right no
 -Hbrew
  
 
-## Annual Video Review Project - this is a great one for folks with distractions (ahem, homeschooling). ;p Watch a 2-3 minute video and follow along in Salesforce, taking notes on any changes needed.
+## Annual Video Review Project
+Watch a 2-3 minute video and follow along in Salesforce, taking notes on any changes needed.
  
