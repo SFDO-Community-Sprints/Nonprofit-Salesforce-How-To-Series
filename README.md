@@ -7,12 +7,13 @@ Here we will be tracking the work of the Power of Us Community Project, which cr
 Volunteer and join the discussion on the [Power of Us Hub group](https://powerofus.force.com/s/feed/0D51E00005GfhR2SAJ)
 
 [NPSP How-To Video Youtube Channel](https://www.youtube.com/channel/UC8kDDLRZzDdOBS24al99Kag)
-
+[5 Steps to Creating a NPSP How-To Video](https://docs.google.com/document/u/1/d/1zGtKyt2v8quwAJmXC3UQL3Dj07ltKosIJdH-Ldwy2MM/pub)
+[Sample Script](https://docs.google.com/document/d/1uvOblGaCT5CYp9WavSy06AlfWdkGpqlU2BBg0rVMDvI/edit)
 
 Here are some of the great NPSP How-To Video projects you can help with right now:
 
 ## Write, edit, and review scripts
-The scripts in our current backlog are below. Note! You don't have to be an expert on the topic; you will be following documentation. But you probably *will* be an expert by the time you are done!
+The scripts in our current backlog are below. Note! You don't have to be an expert on the topic; you will be following documentation. But you probably *will* be an expert by the time you are done! 
 
 * Enhanced Recurring Donations
 * Migrating to Enhanced Recurring Donation
