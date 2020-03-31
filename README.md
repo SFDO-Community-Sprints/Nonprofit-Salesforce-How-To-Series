@@ -17,19 +17,19 @@ Here are some of the great NPSP How-To Video projects you can help with right no
 ## Write, edit, and review scripts
 The scripts in our current backlog are below. Note! You don't have to be an expert on the topic; you will be following documentation. But you probably *will* be an expert by the time you are done! 
 
-* Enhanced Recurring Donations
+* Enhanced Recurring Donations  
 * Migrating to Enhanced Recurring Donation
 * Intro to NPSP Import 
 * What Are Campaigns and How Do They Work? >> CAROLINE R. 
-* NPSP Reports Workbook
+* NPSP Reports Workbook 
 * Create and Update Campaign Members Through an Opportunity
 * Why and How to Use Leads
 * NPSP Logic for Creating Opportunity Contact Roles—And Avoiding Duplicates
-* Working with Opportunity Sales Processes
+* Working with Opportunity Sales Processes >> MELANIE T.
 * Set up address verification
 * Protect Your Data with an Effective Backup
 * NPSP Product Information for GDPR
-* Consent Management for NPSP
+* Consent Management for NPSP 
 
 ## Translate exisiting NPSP Videography Scripts
 * Spanish
