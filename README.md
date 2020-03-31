@@ -23,9 +23,9 @@ The scripts in our current backlog are below. Note! You don't have to be an expe
 * What Are Campaigns and How Do They Work? >> CAROLINE R. 
 * NPSP Reports Workbook 
 * Create and Update Campaign Members Through an Opportunity
-* Why and How to Use Leads
+* Why and How to Use Leads >> Chandana & Charise
 * NPSP Logic for Creating Opportunity Contact Roles—And Avoiding Duplicates
-* Working with Opportunity Sales Processes >> MELANIE T.
+* Working with Opportunity Sales Processes >> MELANIE T. & Bill 
 * Set up address verification
 * Protect Your Data with an Effective Backup
 * NPSP Product Information for GDPR
