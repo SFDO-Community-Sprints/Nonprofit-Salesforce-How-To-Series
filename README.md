@@ -20,7 +20,7 @@ The scripts in our current backlog are below. Note! You don't have to be an expe
 * Enhanced Recurring Donations
 * Migrating to Enhanced Recurring Donation
 * Intro to NPSP Import 
-* What Are Campaigns and How Do They Work?
+* What Are Campaigns and How Do They Work? >> CAROLINE R. 
 * NPSP Reports Workbook
 * Create and Update Campaign Members Through an Opportunity
 * Why and How to Use Leads
