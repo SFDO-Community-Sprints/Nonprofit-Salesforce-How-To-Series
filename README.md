@@ -28,7 +28,7 @@ The scripts in our current backlog are below. Note! You don't have to be an expe
 
 
 
-Ideas for next sprint...or come join the discussion on the [Power of Us Hub group](https://powerofus.force.com/s/feed/0D51E00005GfhR2SAJ)
+Ideas for next sprint...or if you are eager to help before then, stop by the [Power of Us Hub group](https://powerofus.force.com/s/feed/0D51E00005GfhR2SAJ) and say hi!
 
 ## Translate exisiting NPSP Videography Scripts
 * Spanish
