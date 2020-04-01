@@ -12,25 +12,23 @@ Volunteer and join the discussion on the [Power of Us Hub group](https://powerof
 
 [Sample Script](https://docs.google.com/document/d/1uvOblGaCT5CYp9WavSy06AlfWdkGpqlU2BBg0rVMDvI/edit)
 
-Here are some of the great NPSP How-To Video projects you can help with right now:
+Here are scripts that were worked on at the Spring 20 Virtual Sprint
 
 ## Write, edit, and review scripts
 The scripts in our current backlog are below. Note! You don't have to be an expert on the topic; you will be following documentation. But you probably *will* be an expert by the time you are done! 
 
-* Enhanced Recurring Donations  
-* Migrating to Enhanced Recurring Donation
-* Intro to NPSP Import 
+* Intro to NPSP Import - Bhin
 * What Are Campaigns and How Do They Work? >> CAROLINE R. & Barbara
-* NPSP Reports Workbook 
-* Create and Update Campaign Members Through an Opportunity
+* NPSP Reports Workbook - Chandana
+* Create and Update Campaign Members Through an Opportunity - Melanie
 * Why and How to Use Leads >> Chandana & Charise
-* NPSP Logic for Creating Opportunity Contact Roles—And Avoiding Duplicates
 * Working with Opportunity Sales Processes >> MELANIE T. & Bill 
-* Set up address verification
-* Protect Your Data with an Effective Backup
-* NPSP Product Information for GDPR
-* Consent Management for NPSP 
+* Set up address verification Bill and Melanie
 
+
+
+
+Ideas for next sprint
 ## Translate exisiting NPSP Videography Scripts
 * Spanish
 * French
