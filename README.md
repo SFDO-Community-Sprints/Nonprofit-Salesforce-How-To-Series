@@ -19,8 +19,9 @@ Volunteer and join the discussion on the [Power of Us Hub group](https://powerof
 
 Scripts in progress
 * Applying for P10 Grant - Melanie Tolomeo
-* Managing Opportunity Contact Roles - Dodi Fridenberg and Cody Switzer
+* Opportunity Credit Hierarchy - Dodi Fridenberg and Cody Switzer
 * NPSP Reports Workbook - Kristina Winters
+* Account Soft Credits - Deepmala Mehta
 
 Recordings in progress
 * Why and How to Use Leads 
