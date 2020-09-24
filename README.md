@@ -15,7 +15,7 @@ Volunteer and join the discussion on the [Power of Us Hub group](https://powerof
 ## September 2020 Sprint
 * Team Leaders: Barbara Christensen [@BRCTweets](https://twitter.com/BRCTweets), Bill Florio [@billflorio](https://twitter.com/billflorio), Charise Van Liew [@charisevl](https://twitter.com/charisevl)
 * Github Scribe: Charise Van Liew
-* Contributors: Cody Switzer @clswitzer, Deepmala Mehta @DeepmalaMehta1, Dodi Fridenberg @dodifriedenberg, Kristina Winters @foamyrokks, Melanie Tolomeo @melanietolomeo
+* Contributors: Cody Switzer [@clswitzer](https://twitter.com/clswitzer), Deepmala Mehta [@DeepmalaMehta1](https://twitter.com/DeepmalaMehta1), Dodi Fridenberg [@dodifriedenberg](https://twitter.com/dodifriedenberg), Kristina Winters [@foamyrokks](https://twitter.com/foamyrokks), Melanie Tolomeo [@melanietolomeo](https://twitter.com/melanietolomeo)
 
 Scripts in progress
 * [Applying for P10 Grant](https://docs.google.com/document/d/1vf4HwddMGNljw5fzLYxVIG0PxOmNGDD0YqRIVNMqpEg/edit?usp=sharing) - Melanie Tolomeo
