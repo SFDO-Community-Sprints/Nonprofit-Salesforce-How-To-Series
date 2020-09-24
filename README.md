@@ -18,10 +18,10 @@ Volunteer and join the discussion on the [Power of Us Hub group](https://powerof
 * Contributors: Cody Switzer @clswitzer, Deepmala Mehta @DeepmalaMehta1, Dodi Fridenberg @dodifriedenberg, Kristina Winters @foamyrokks, Melanie Tolomeo @melanietolomeo
 
 Scripts in progress
-* Applying for P10 Grant - Melanie Tolomeo
-* Opportunity Credit Hierarchy - Dodi Fridenberg and Cody Switzer
-* NPSP Reports Workbook - Kristina Winters
-* Account Soft Credits - Deepmala Mehta
+* [Applying for P10 Grant](https://docs.google.com/document/d/1vf4HwddMGNljw5fzLYxVIG0PxOmNGDD0YqRIVNMqpEg/edit?usp=sharing) - Melanie Tolomeo
+* [Opportunity Credit Hierarchy](https://docs.google.com/document/d/1HVhyi1myHc0KmYdNwX8YIKcw4P6fQYVeWwNQfz8Rwyo/edit?usp=sharing) - Dodi Fridenberg and Cody Switzer
+* [NPSP Reports Workbook](https://docs.google.com/document/d/1V0CnU9LJoqcyjDAI_a7QVuW2QtPwbIUQFcKV4ebPSco/edit?usp=sharing) - Kristina Winters
+* [Account Soft Credit](https://docs.google.com/document/d/17RiYVaP5ryh9CP3mR7woz74lQ9scAL05VtePBokvNXU/edit?usp=sharing) - Deepmala Mehta
 
 Recordings in progress
 * Why and How to Use Leads 
