@@ -13,7 +13,7 @@ Volunteer and join the discussion on the [Power of Us Hub group](https://powerof
 [Sample Script](https://docs.google.com/document/d/1uvOblGaCT5CYp9WavSy06AlfWdkGpqlU2BBg0rVMDvI/edit)
 
 ## September 2020 Sprint
-* Team Leaders: Barbara Christensen @BRCTweets, Bill Florio @billflorio, Charise Van Liew @charisevl
+* Team Leaders: Barbara Christensen [@BRCTweets](https://twitter.com/BRCTweets), Bill Florio [@billflorio](https://twitter.com/billflorio), Charise Van Liew [@charisevl](https://twitter.com/charisevl)
 * Github Scribe: Charise Van Liew
 * Contributors: Cody Switzer @clswitzer, Deepmala Mehta @DeepmalaMehta1, Dodi Fridenberg @dodifriedenberg, Kristina Winters @foamyrokks, Melanie Tolomeo @melanietolomeo
 
