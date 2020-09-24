@@ -34,10 +34,14 @@ Recordings in progress
 Annual Review of Existing Videos
 Spreadsheet tracking review process is [here](https://docs.google.com/spreadsheets/d/1ESTsr5OOnPXPfB2KTPOCDP0YfT3esYZWDdy_9yaAPbo/edit?ts=5f6b8d20#gid=1443784001)
 
-## Write, edit, and review scripts
-The scripts in our current backlog are below. Note! You don't have to be an expert on the topic; you will be following documentation. But you probably *will* be an expert by the time you are done! 
+## Write, edit, translate and review scripts
+Examples of scripts in our current backlog are below. Note! You don't have to be an expert on the topic to contribute; you will be following documentation. But you probably *will* be an expert by the time you are done! 
+* Intro to NPSP Import version 2
+* Getting Started with Nonprofit Cloud
+* Migrating to Enhanced Recurring Donation
+* NPSP Data Dictionary Overview
 
-Ideas for next sprint...or if you are eager to help before then, stop by the [Power of Us Hub group](https://powerofus.force.com/s/feed/0D51E00005GfhR2SAJ) and say hi!
+If you have other ideas or if you are eager to help before the next sprint, stop by the [Power of Us Hub group](https://powerofus.force.com/s/feed/0D51E00005GfhR2SAJ) and say hi!
 
 ## Translate exisiting NPSP Videography Scripts
 * Spanish
