@@ -31,6 +31,8 @@ Recordings in progress
 * How to Add Campaign Members
 * Working with Opportunity Sales Processes 
 
+Annual Review of Existing Videos
+Spreadsheet tracking review process is [here](https://docs.google.com/spreadsheets/d/1ESTsr5OOnPXPfB2KTPOCDP0YfT3esYZWDdy_9yaAPbo/edit?ts=5f6b8d20#gid=1443784001)
 
 ## Write, edit, and review scripts
 The scripts in our current backlog are below. Note! You don't have to be an expert on the topic; you will be following documentation. But you probably *will* be an expert by the time you are done! 
@@ -46,5 +48,7 @@ Ideas for next sprint...or if you are eager to help before then, stop by the [Po
 * Hebrew
 
 ## Do a part of the Annual Video Review Project
-Watch a 2-3 minute video and follow along in Salesforce, taking notes on any changes needed.
+Watch a 2-3 minute video and follow along in Salesforce, taking notes on any changes needed. View the tracking document [here](https://docs.google.com/spreadsheets/d/1ESTsr5OOnPXPfB2KTPOCDP0YfT3esYZWDdy_9yaAPbo/edit?ts=5f6b8d20#gid=1443784001)
+
+Have questions or need access to a linked document? Email charise.vanliew (at) trailblazercgl.com
  
