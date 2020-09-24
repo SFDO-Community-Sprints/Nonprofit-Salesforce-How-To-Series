@@ -12,21 +12,27 @@ Volunteer and join the discussion on the [Power of Us Hub group](https://powerof
 
 [Sample Script](https://docs.google.com/document/d/1uvOblGaCT5CYp9WavSy06AlfWdkGpqlU2BBg0rVMDvI/edit)
 
-Here are scripts that were worked on at the Spring 20 Virtual Sprint
+September 2020 Sprint
+*Team Leaders: Barbara Christensen @BRCTweets, Bill Florio @billflorio, Charise Van Liew @charisevl
+*Github Scribe: Charise Van Liew
+*Contributors: Cody Switzer @clswitzer, Deepmala Mehta @DeepmalaMehta1, Dodi Fridenberg @dodifriedenberg, Kristina Winters @foamyrokks, Melanie Tolomeo @melanietolomeo
+
+Scripts in progress
+*Applying for P10 Grant - Melanie Tolomeo
+*Managing Opportunity Contact Roles - Dodi Fridenberg and Cody Switzer
+*NPSP Reports Workbook - Kristina Winters
+
+Recordings in progress
+*Why and How to Use Leads 
+*What Are Campaigns and Why Would We Use Them?
+*How to Use Campaign Hierarchy
+*How to Attribute Donations to Campaigns
+*How to Add Campaign Members
+*Working with Opportunity Sales Processes 
+
 
 ## Write, edit, and review scripts
 The scripts in our current backlog are below. Note! You don't have to be an expert on the topic; you will be following documentation. But you probably *will* be an expert by the time you are done! 
-
-* Intro to NPSP Import - Bhin
-* What Are Campaigns and How Do They Work? >> CAROLINE R. & Barbara
-* NPSP Reports Workbook - Chandana
-* Create and Update Campaign Members Through an Opportunity - Melanie
-* Why and How to Use Leads >> Chandana & Charise
-* Working with Opportunity Sales Processes >> MELANIE T. & Bill 
-* Set up address verification Bill and Melanie
-
-
-
 
 Ideas for next sprint...or if you are eager to help before then, stop by the [Power of Us Hub group](https://powerofus.force.com/s/feed/0D51E00005GfhR2SAJ) and say hi!
 
