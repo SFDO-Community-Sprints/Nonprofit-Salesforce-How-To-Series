@@ -12,23 +12,23 @@ Volunteer and join the discussion on the [Power of Us Hub group](https://powerof
 
 [Sample Script](https://docs.google.com/document/d/1uvOblGaCT5CYp9WavSy06AlfWdkGpqlU2BBg0rVMDvI/edit)
 
-September 2020 Sprint
-*Team Leaders: Barbara Christensen @BRCTweets, Bill Florio @billflorio, Charise Van Liew @charisevl
-*Github Scribe: Charise Van Liew
-*Contributors: Cody Switzer @clswitzer, Deepmala Mehta @DeepmalaMehta1, Dodi Fridenberg @dodifriedenberg, Kristina Winters @foamyrokks, Melanie Tolomeo @melanietolomeo
+## September 2020 Sprint
+* Team Leaders: Barbara Christensen @BRCTweets, Bill Florio @billflorio, Charise Van Liew @charisevl
+* Github Scribe: Charise Van Liew
+* Contributors: Cody Switzer @clswitzer, Deepmala Mehta @DeepmalaMehta1, Dodi Fridenberg @dodifriedenberg, Kristina Winters @foamyrokks, Melanie Tolomeo @melanietolomeo
 
 Scripts in progress
-*Applying for P10 Grant - Melanie Tolomeo
-*Managing Opportunity Contact Roles - Dodi Fridenberg and Cody Switzer
-*NPSP Reports Workbook - Kristina Winters
+* Applying for P10 Grant - Melanie Tolomeo
+* Managing Opportunity Contact Roles - Dodi Fridenberg and Cody Switzer
+* NPSP Reports Workbook - Kristina Winters
 
 Recordings in progress
-*Why and How to Use Leads 
-*What Are Campaigns and Why Would We Use Them?
-*How to Use Campaign Hierarchy
-*How to Attribute Donations to Campaigns
-*How to Add Campaign Members
-*Working with Opportunity Sales Processes 
+* Why and How to Use Leads 
+* What Are Campaigns and Why Would We Use Them?
+* How to Use Campaign Hierarchy
+* How to Attribute Donations to Campaigns
+* How to Add Campaign Members
+* Working with Opportunity Sales Processes 
 
 
 ## Write, edit, and review scripts
