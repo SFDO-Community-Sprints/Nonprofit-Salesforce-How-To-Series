@@ -14,7 +14,7 @@ Volunteer and join the discussion on the [Power of Us Hub group](https://powerof
 
 ## October 2020 Mini Sprint
 
-## Write, edit, translate and review scripts
+### Write, edit, translate and review scripts
 Examples of scripts in our current backlog are below. Note! You don't have to be an expert on the topic to contribute; you will be following documentation. But you probably *will* be an expert by the time you are done! 
 * Intro to NPSP Import version 2
 * Getting Started with Nonprofit Cloud
