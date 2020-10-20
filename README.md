@@ -12,6 +12,27 @@ Volunteer and join the discussion on the [Power of Us Hub group](https://powerof
 
 [Sample Script](https://docs.google.com/document/d/1uvOblGaCT5CYp9WavSy06AlfWdkGpqlU2BBg0rVMDvI/edit)
 
+## October 2020 Mini Sprint
+
+## Write, edit, translate and review scripts
+Examples of scripts in our current backlog are below. Note! You don't have to be an expert on the topic to contribute; you will be following documentation. But you probably *will* be an expert by the time you are done! 
+* Intro to NPSP Import version 2
+* Getting Started with Nonprofit Cloud
+* Migrating to Enhanced Recurring Donation
+* NPSP Data Dictionary Overview
+
+### Translate exisiting NPSP Videography Scripts
+* Spanish
+* French
+* German
+* Japanese
+* Dutch
+* Hebrew
+
+### Do a part of the Annual Video Review Project
+Watch a 2-3 minute video and follow along in Salesforce, taking notes on any changes needed. View the tracking document [here](https://docs.google.com/spreadsheets/d/1ESTsr5OOnPXPfB2KTPOCDP0YfT3esYZWDdy_9yaAPbo/edit?ts=5f6b8d20#gid=1443784001)
+
+
 ## September 2020 Sprint
 * Team Leaders: Barbara Christensen [@BRCTweets](https://twitter.com/BRCTweets), Bill Florio [@billflorio](https://twitter.com/billflorio), Charise Van Liew [@charisevl](https://twitter.com/charisevl)
 * Github Scribe: Charise Van Liew
@@ -34,25 +55,7 @@ Recordings in progress
 Annual Review of Existing Videos
 Spreadsheet tracking review process is [here](https://docs.google.com/spreadsheets/d/1ESTsr5OOnPXPfB2KTPOCDP0YfT3esYZWDdy_9yaAPbo/edit?ts=5f6b8d20#gid=1443784001)
 
-## Write, edit, translate and review scripts
-Examples of scripts in our current backlog are below. Note! You don't have to be an expert on the topic to contribute; you will be following documentation. But you probably *will* be an expert by the time you are done! 
-* Intro to NPSP Import version 2
-* Getting Started with Nonprofit Cloud
-* Migrating to Enhanced Recurring Donation
-* NPSP Data Dictionary Overview
-
 If you have other ideas or if you are eager to help before the next sprint, stop by the [Power of Us Hub group](https://powerofus.force.com/s/feed/0D51E00005GfhR2SAJ) and say hi!
-
-## Translate exisiting NPSP Videography Scripts
-* Spanish
-* French
-* German
-* Japanese
-* Dutch
-* Hebrew
-
-## Do a part of the Annual Video Review Project
-Watch a 2-3 minute video and follow along in Salesforce, taking notes on any changes needed. View the tracking document [here](https://docs.google.com/spreadsheets/d/1ESTsr5OOnPXPfB2KTPOCDP0YfT3esYZWDdy_9yaAPbo/edit?ts=5f6b8d20#gid=1443784001)
 
 Have questions or need access to a linked document? Email charise.vanliew (at) trailblazercgl.com
  
