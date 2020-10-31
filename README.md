@@ -34,22 +34,24 @@ Examples of scripts in our current backlog are below. Note! You don't have to be
 ### Do a part of the Annual Video Review Project
 Watch a 2-3 minute video and follow along in Salesforce, taking notes on any changes needed. View the tracking document [here](https://docs.google.com/spreadsheets/d/1ESTsr5OOnPXPfB2KTPOCDP0YfT3esYZWDdy_9yaAPbo/edit?ts=5f6b8d20#gid=1443784001)
 
-## October 2020 Sprint
+## October 2020 Sprint Recap
 * Team Leaders: Barbara Christensen [@BRCTweets](https://twitter.com/BRCTweets), Bill Florio [@billflorio](https://twitter.com/billflorio), Charise Van Liew [@charisevl](https://twitter.com/charisevl)
 * Github Scribe: Charise Van Liew
 * Contributors: Melissa Barber, Brooke Belott, Cody Switzer [@clswitzer](https://twitter.com/clswitzer),  Deepmala Mehta [@DeepmalaMehta1](https://twitter.com/DeepmalaMehta1), Dodi Fridenberg [@dodifriedenberg](https://twitter.com/dodifriedenberg), Kristina Winters [@foamyrokks](https://twitter.com/foamyrokks), Melanie Tolomeo [@melanietolomeo](https://twitter.com/melanietolomeo), Marc Baizman [@mbaizman](https://twitter.com/mbaizman), Laura McGrath [@lmcgra](https://twitter.com/lmcgra), Sheeba Thukral [@sheebathurkral](https://twitter.com/sheebathukral), Sheila Powell [@SheilaCPowell](https://twitter.com/SheilaCPowell), Sally Burns, Jason Zeikowitz [@Astro_Nomist](https://twitter.com/Astro_Nomist), Jace Bryan [@JaceBryan_](https://twitter.com/JaceBryan_), Cori O'Brien [@CoriOPaluck](https://twitter.com/CoriOPaluck)
 
 Scripts drafted
-
+* [Gift Entry and Advanced Mapping scripts](https://docs.google.com/document/d/1Lb5j8aOvaMYalYtFwLUZdn987HwIYqAhIICGZw-XXWA/edit?usp=sharing) - Kristina W, Dodi F, Marc B, Melissa B
+* [Setting up Programs, Services, and Program Cohorts in PMM](https://docs.google.com/document/d/1m8dbfTEHnkhRLEP_qpP0aGzjIaXsmFONoMxR8bPjIUo/edit) - Sheeba T
+* [Program Management Module, video 1](https://docs.google.com/document/d/1eOgbbMInaMiVtF0yQ6DBDk2fQD9p4d_2Pgie78CdRoA/edit) - Melanie T 
 
 Script drafts reviewed
-* [Applying for P10 Grant](https://docs.google.com/document/d/1vf4HwddMGNljw5fzLYxVIG0PxOmNGDD0YqRIVNMqpEg/edit?usp=sharing) - Melanie Tolomeo
-* [NPSP Reports Workbook](https://docs.google.com/document/d/1V0CnU9LJoqcyjDAI_a7QVuW2QtPwbIUQFcKV4ebPSco/edit?usp=sharing) - Kristina Winters
+* [Applying for P10 Grant](https://docs.google.com/document/d/1vf4HwddMGNljw5fzLYxVIG0PxOmNGDD0YqRIVNMqpEg/edit?usp=sharing) - Melanie T + Kristina W
+* [NPSP Reports Workbook](https://docs.google.com/document/d/1V0CnU9LJoqcyjDAI_a7QVuW2QtPwbIUQFcKV4ebPSco/edit?usp=sharing) - Kristina W + Brooke B
 
 Recordings in progress (voice recorded at sprint)
 
 
-## September 2020 Sprint
+## September 2020 Sprint Recap
 * Team Leaders: Barbara Christensen [@BRCTweets](https://twitter.com/BRCTweets), Bill Florio [@billflorio](https://twitter.com/billflorio), Charise Van Liew [@charisevl](https://twitter.com/charisevl)
 * Github Scribe: Charise Van Liew
 * Contributors: Cody Switzer [@clswitzer](https://twitter.com/clswitzer), Deepmala Mehta [@DeepmalaMehta1](https://twitter.com/DeepmalaMehta1), Dodi Fridenberg [@dodifriedenberg](https://twitter.com/dodifriedenberg), Kristina Winters [@foamyrokks](https://twitter.com/foamyrokks), Melanie Tolomeo [@melanietolomeo](https://twitter.com/melanietolomeo)
