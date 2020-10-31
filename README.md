@@ -37,7 +37,7 @@ Watch a 2-3 minute video and follow along in Salesforce, taking notes on any cha
 ## October 2020 Sprint
 * Team Leaders: Barbara Christensen [@BRCTweets](https://twitter.com/BRCTweets), Bill Florio [@billflorio](https://twitter.com/billflorio), Charise Van Liew [@charisevl](https://twitter.com/charisevl)
 * Github Scribe: Charise Van Liew
-* Contributors: Melissa Barber, Brooke Belott, Cody Switzer [@clswitzer](https://twitter.com/clswitzer),  Deepmala Mehta [@DeepmalaMehta1](https://twitter.com/DeepmalaMehta1), Dodi Fridenberg [@dodifriedenberg](https://twitter.com/dodifriedenberg), Kristina Winters [@foamyrokks](https://twitter.com/foamyrokks), Melanie Tolomeo [@melanietolomeo](https://twitter.com/melanietolomeo), Marc Baizman, Laura McGrath, Sheeba Thukral, Sheila Powell, Sally Burns, Jason Zeikowitz, Jace Bryan, Cori O'Brien
+* Contributors: Melissa Barber, Brooke Belott, Cody Switzer [@clswitzer](https://twitter.com/clswitzer),  Deepmala Mehta [@DeepmalaMehta1](https://twitter.com/DeepmalaMehta1), Dodi Fridenberg [@dodifriedenberg](https://twitter.com/dodifriedenberg), Kristina Winters [@foamyrokks](https://twitter.com/foamyrokks), Melanie Tolomeo [@melanietolomeo](https://twitter.com/melanietolomeo), Marc Baizman [@mbaizman](https://twitter.com/mbaizman), Laura McGrath [@lmcgra](https://twitter.com/lmcgra), Sheeba Thukral [@sheebathurkral](https://twitter.com/sheebathukral), Sheila Powell [@SheilaCPowell](https://twitter.com/SheilaCPowell), Sally Burns, Jason Zeikowitz [@Astro_Nomist](https://twitter.com/Astro_Nomist), Jace Bryan [@JaceBryan_](https://twitter.com/JaceBryan_), Cori O'Brien [@CoriOPaluck](https://twitter.com/CoriOPaluck)
 
 Scripts drafted
 
