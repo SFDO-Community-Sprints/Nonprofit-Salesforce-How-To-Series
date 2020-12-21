@@ -34,6 +34,15 @@ Examples of scripts in our current backlog are below. Note! You don't have to be
 ### Do a part of the Annual Video Review Project
 Watch a 2-3 minute video and follow along in Salesforce, taking notes on any changes needed. View the tracking document [here](https://docs.google.com/spreadsheets/d/1ESTsr5OOnPXPfB2KTPOCDP0YfT3esYZWDdy_9yaAPbo/edit?ts=5f6b8d20#gid=1443784001)
 
+### Record Narration on Videos
+Here are some of the videos that will soon need narration. Anyone with a decent internet connection, a headset with a good mic, and a confortable speaking voice can volunteer. We usually record some scripts at every sprint.
+* Account Soft Credit Setup
+* Applying for a Salesforce License Donation
+* Specifying a Default Mailing Address for an Account
+
+## February 2021 Sprint
+Coming soon! Review the things you can help with above, save the dates February 10-11, and get excited! 
+
 ## October 2020 Sprint Recap
 * Team Leaders: Barbara Christensen [@BRCTweets](https://twitter.com/BRCTweets), Bill Florio [@billflorio](https://twitter.com/billflorio), Charise Van Liew [@charisevl](https://twitter.com/charisevl)
 * Github Scribe: Charise Van Liew
