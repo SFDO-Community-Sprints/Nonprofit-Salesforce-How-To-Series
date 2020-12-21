@@ -16,11 +16,11 @@ Volunteer and join the discussion on the [Power of Us Hub group](https://powerof
 
 ### Write, edit and review scripts
 Examples of scripts in our current backlog are below. Note! You don't have to be an expert on the topic to contribute; you will be following documentation. But you probably *will* be an expert by the time you are done! 
-* What are Campaigns and Why Would We Use Them?
-* Intro to NPSP Import version 2
-* Getting Started with Nonprofit Cloud
-* Migrating to Enhanced Recurring Donation
-* NPSP Report Workbook Overview
+* Gift Entry: Creating Templates
+* Gift Entry for Single Gifts
+* Gift Entry for Batches: Creating a Batch, Adding Gifts to a Batch, and Processing a Batch, 
+* PMM: Installing PMM
+* TDTM Overview
 * NPSP Data Dictionary Overview
 
 ### Translate exisiting NPSP Videography Scripts
