@@ -12,7 +12,7 @@ Volunteer and join the discussion on the [Power of Us Hub group](https://powerof
 
 [Sample Script](https://docs.google.com/document/d/1uvOblGaCT5CYp9WavSy06AlfWdkGpqlU2BBg0rVMDvI/edit)
 
-## How You Can Help
+## How You Can Help (At sprints or anytime!)
 
 ### Write, edit and review scripts
 Examples of scripts in our current backlog are below. Note! You don't have to be an expert on the topic to contribute; you will be following documentation. But you probably *will* be an expert by the time you are done! 
@@ -41,7 +41,12 @@ Here are some of the videos that will soon need narration. Anyone with a decent 
 * Specifying a Default Mailing Address for an Account
 
 ## February 2021 Sprint
-Coming soon! Review the things you can help with above, save the dates February 10-11, and get excited! 
+Review the tasks you can help with above, and here are the projects in progress that need your help!
+* Write and/or finalize the last of the scripts for the Gift Entry feature
+* Have a piece of documentation you wish were more accessible: Make your passion project video happen!
+* Review the existing videos for updates and changes (this is a great project for someone with less time)
+* Put your voice in shining lights! Record narration for existing videos in progress (Headset required)
+* Join our translation team! 
 
 ## October 2020 Sprint Recap
 * Team Leaders: Barbara Christensen [@BRCTweets](https://twitter.com/BRCTweets), Bill Florio [@billflorio](https://twitter.com/billflorio), Charise Van Liew [@charisevl](https://twitter.com/charisevl)
