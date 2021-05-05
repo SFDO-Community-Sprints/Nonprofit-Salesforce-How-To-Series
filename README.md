@@ -8,7 +8,7 @@ Volunteer and join the discussion on the [Power of Us Hub group](https://powerof
 
 [NPSP How-To Video Youtube Channel](https://www.youtube.com/channel/UC8kDDLRZzDdOBS24al99Kag)
 
-Starting in 2021, we will be piloting managing our open projects here in github. Head to the [Projects](https://github.com/SFDO-Community-Sprints/NPSP-Videography/projects) tab to see what's in the works!
+Starting in 2021, we will begin managing our open projects here in github. Head to the [Projects](https://github.com/SFDO-Community-Sprints/NPSP-Videography/projects) tab to see what's in the works! Please excuse our dust-- volunteers to add to documentation & processes welcome!
 
 Check out our [Wiki](https://github.com/SFDO-Community-Sprints/NPSP-Videography/wiki) for instructions, sample scripts, and more!
 
