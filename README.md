@@ -15,13 +15,8 @@ Check out our [Wiki](https://github.com/SFDO-Community-Sprints/NPSP-Videography/
 ## How You Can Help (At sprints or anytime!)
 
 ### Write, edit and review scripts
-Examples of scripts in our current backlog are below. Note! You don't have to be an expert on the topic to contribute; you will be following documentation. But you probably *will* be an expert by the time you are done! 
-* Gift Entry: Creating Templates
-* Gift Entry for Single Gifts
-* Gift Entry for Batches: Creating a Batch, Adding Gifts to a Batch, and Processing a Batch, 
-* PMM: Installing PMM
-* TDTM Overview
-* NPSP Data Dictionary Overview
+View the scripts in our current backlog [here](https://github.com/SFDO-Community-Sprints/NPSP-Videography/projects/4). Note! You don't have to be an expert on the topic to contribute; you will be following documentation. But you probably *will* be an expert by the time you are done! 
+
 
 ### Translate exisiting NPSP Videography Scripts
 * Spanish
@@ -45,10 +40,16 @@ Review the tasks you can help with above, and here are the projects in progress 
 * Put your voice in shining lights! Record narration for existing videos in progress (Headset required)
 * Join our translation team! 
 -------------------------------------------------
+## June 2021 Sprint
+* See what we worked on [here](https://github.com/SFDO-Community-Sprints/NPSP-Videography/milestone/2)
+* Contributors: Melanie Tolomeo, Doug Contaoi, Marc Baizman, Cori O'Brien
+* Github Scribe: Charise Van Liew
+* Team Leaders: Bill Florio, Charise Van Liew, Barbara Christensen
+
 ## February 2021 Sprint Recap
 * Team Leaders: Barbara Christensen [@BRCTweets](https://twitter.com/BRCTweets), Bill Florio [@billflorio](https://twitter.com/billflorio), Charise Van Liew [@charisevl](https://twitter.com/charisevl)
 * GitHub Scribe: Barbara Christensen
-* Contributors: Jon Sayer, Doug Contaoi, Cori O'Brien, Daniel Gorton, Skye Tyler, Amanda Styles
+* Contributors: Melanie Tolomeo, Jon Sayer, Doug Contaoi, Cori O'Brien, Daniel Gorton, Skye Tyler, Amanda Styles
 
 Script audio recorded: 
 * Verifying Addresses
