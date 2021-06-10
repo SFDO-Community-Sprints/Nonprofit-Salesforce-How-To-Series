@@ -42,7 +42,7 @@ Review the tasks you can help with above, and here are the projects in progress 
 -------------------------------------------------
 ## June 2021 Sprint
 * See what we worked on [here](https://github.com/SFDO-Community-Sprints/NPSP-Videography/milestone/2)
-* Contributors: Melanie Tolomeo, Doug Contaoi, Marc Baizman, Cori O'Brien
+* Contributors: Melanie Tolomeo, Doug Contaoi, Marc Baizman, Cori O'Brien, CJ Wilkerson
 * Github Scribe: Charise Van Liew
 * Team Leaders: Bill Florio, Charise Van Liew, Barbara Christensen
 
