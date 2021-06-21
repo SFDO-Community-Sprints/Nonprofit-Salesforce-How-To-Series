@@ -107,4 +107,4 @@ Spreadsheet tracking review process is [here](https://docs.google.com/spreadshee
 If you have other ideas or if you are eager to help before the next sprint, stop by the [Power of Us Hub group](https://powerofus.force.com/s/feed/0D51E00005GfhR2SAJ) and say hi!
 
 Have questions or need access to a linked document? Email charise.vanliew (at) trailblazercgl.com
- 
+Yay!
