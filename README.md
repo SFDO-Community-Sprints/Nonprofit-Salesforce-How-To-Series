@@ -40,6 +40,15 @@ Review the tasks you can help with above, and here are the projects in progress 
 * Put your voice in shining lights! Record narration for existing videos in progress (Headset required)
 * Join our translation team! 
 -------------------------------------------------
+## September 2021 Mini-Sprint Recap
+* Contributors: 
+* Scripts written/reviewed
+
+* Audio recorded
+
+* Special projects
+*
+
 ## June 2021 Sprint
 * See what we worked on [here](https://github.com/SFDO-Community-Sprints/NPSP-Videography/milestone/2)
 * Contributors: Melanie Tolomeo, Doug Contaoi, Marc Baizman, Cori O'Brien, CJ Wilkerson
@@ -66,46 +75,6 @@ Script reviews continued:
 
 Annual Video Review: BIG shout out to @jonsayer for getting through all the Volunteers videos! Next steps is integrating the changes.
 
-
-
-## October 2020 Sprint Recap
-* Team Leaders: Barbara Christensen [@BRCTweets](https://twitter.com/BRCTweets), Bill Florio [@billflorio](https://twitter.com/billflorio), Charise Van Liew [@charisevl](https://twitter.com/charisevl)
-* Github Scribe: Charise Van Liew
-* Contributors: Melissa Barber, Brooke Belott, Cody Switzer [@clswitzer](https://twitter.com/clswitzer),  Deepmala Mehta [@DeepmalaMehta1](https://twitter.com/DeepmalaMehta1), Dodi Fridenberg [@dodifriedenberg](https://twitter.com/dodifriedenberg), Kristina Winters [@foamyrokks](https://twitter.com/foamyrokks), Melanie Tolomeo [@melanietolomeo](https://twitter.com/melanietolomeo), Marc Baizman [@mbaizman](https://twitter.com/mbaizman), Laura McGrath [@lmcgra](https://twitter.com/lmcgra), Sheeba Thukral [@sheebathurkral](https://twitter.com/sheebathukral), Sheila Powell [@SheilaCPowell](https://twitter.com/SheilaCPowell), Sally Burns, Jason Zeikowitz [@Astro_Nomist](https://twitter.com/Astro_Nomist), Jace Bryan [@JaceBryan_](https://twitter.com/JaceBryan_), Cori O'Brien [@CoriOPaluck](https://twitter.com/CoriOPaluck)
-
-Scripts drafted
-* [Gift Entry and Advanced Mapping scripts](https://docs.google.com/document/d/1Lb5j8aOvaMYalYtFwLUZdn987HwIYqAhIICGZw-XXWA/edit?usp=sharing) - Kristina W, Dodi F, Marc B, Melissa B
-* [Setting up Programs, Services, and Program Cohorts in PMM](https://docs.google.com/document/d/1m8dbfTEHnkhRLEP_qpP0aGzjIaXsmFONoMxR8bPjIUo/edit) - Sheeba T
-* [Program Management Module, video 1](https://docs.google.com/document/d/1eOgbbMInaMiVtF0yQ6DBDk2fQD9p4d_2Pgie78CdRoA/edit) - Melanie T 
-
-Script drafts reviewed
-* [Applying for P10 Grant](https://docs.google.com/document/d/1vf4HwddMGNljw5fzLYxVIG0PxOmNGDD0YqRIVNMqpEg/edit?usp=sharing) - Melanie T + Kristina W
-* [NPSP Reports Workbook](https://docs.google.com/document/d/1V0CnU9LJoqcyjDAI_a7QVuW2QtPwbIUQFcKV4ebPSco/edit?usp=sharing) - Kristina W + Brooke B
-
-Recordings in progress (voice recorded at sprint)
-
-
-## September 2020 Sprint Recap
-* Team Leaders: Barbara Christensen [@BRCTweets](https://twitter.com/BRCTweets), Bill Florio [@billflorio](https://twitter.com/billflorio), Charise Van Liew [@charisevl](https://twitter.com/charisevl)
-* Github Scribe: Charise Van Liew
-* Contributors: Cody Switzer [@clswitzer](https://twitter.com/clswitzer), Deepmala Mehta [@DeepmalaMehta1](https://twitter.com/DeepmalaMehta1), Dodi Fridenberg [@dodifriedenberg](https://twitter.com/dodifriedenberg), Kristina Winters [@foamyrokks](https://twitter.com/foamyrokks), Melanie Tolomeo [@melanietolomeo](https://twitter.com/melanietolomeo)
-
-Scripts in progress
-* [Opportunity Credit Hierarchy](https://docs.google.com/document/d/1HVhyi1myHc0KmYdNwX8YIKcw4P6fQYVeWwNQfz8Rwyo/edit?usp=sharing) - Dodi Fridenberg and Cody Switzer
-* [NPSP Reports Workbook](https://docs.google.com/document/d/1V0CnU9LJoqcyjDAI_a7QVuW2QtPwbIUQFcKV4ebPSco/edit?usp=sharing) - Kristina Winters
-* [Account Soft Credit](https://docs.google.com/document/d/17RiYVaP5ryh9CP3mR7woz74lQ9scAL05VtePBokvNXU/edit?usp=sharing) - Deepmala Mehta
-* [Applying for P10 Grant](https://docs.google.com/document/d/1vf4HwddMGNljw5fzLYxVIG0PxOmNGDD0YqRIVNMqpEg/edit?usp=sharing) - Melanie Tolomeo
-
-Recordings in progress
-* Why and How to Use Leads 
-* What Are Campaigns and Why Would We Use Them?
-* How to Use Campaign Hierarchy
-* How to Attribute Donations to Campaigns
-* How to Add Campaign Members
-* Working with Opportunity Sales Processes 
-
-Annual Review of Existing Videos
-Spreadsheet tracking review process is [here](https://docs.google.com/spreadsheets/d/1ESTsr5OOnPXPfB2KTPOCDP0YfT3esYZWDdy_9yaAPbo/edit?ts=5f6b8d20#gid=1443784001)
 
 If you have other ideas or if you are eager to help before the next sprint, stop by the [Power of Us Hub group](https://powerofus.force.com/s/feed/0D51E00005GfhR2SAJ) and say hi!
 
