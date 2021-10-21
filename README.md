@@ -40,6 +40,17 @@ Review the tasks you can help with above, and here are the projects in progress 
 * Put your voice in shining lights! Record narration for existing videos in progress (Headset required)
 * Join our translation team! 
 -------------------------------------------------
+## October 2021 Sprint
+* Contributers: CJ Wilkerson, Emma Keeling, Ruby Menon, Sue Pippel, John Sim, Erika Walcott
+* Git Hub Scribe: Rebecca Tasetano
+* Team Leaders: Bill Florio, Rebecca Tasetano, Eric Steeves
+
+What we accomplished:
+* Gift Entry: Configure Gift Entry (Moved to Peer Review)
+* PMM: Setting up Programs, Services, and Cohorts
+* Gift Entry for Single Gifts
+* Gift Entry: Create and Edit Gift Entry Templates
+
 ## September 2021 Mini-Sprint Recap
 * Contributors: 
 * Scripts written/reviewed
