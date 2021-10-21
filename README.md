@@ -41,7 +41,7 @@ Review the tasks you can help with above, and here are the projects in progress 
 * Join our translation team! 
 -------------------------------------------------
 ## October 2021 Sprint
-* Contributers: CJ Wilkerson, Emma Keeling, Ruby Menon, Sue Pippel, John Sim, Erika Walcott
+* Contributers: CJ Wilkerson, Emma Keeling, Ruby Menon, Sue Pippel, John Sim, Erika Walcott, Spencer
 * Git Hub Scribe: Rebecca Tasetano
 * Team Leaders: Bill Florio, Rebecca Tasetano, Eric Steeves
 
