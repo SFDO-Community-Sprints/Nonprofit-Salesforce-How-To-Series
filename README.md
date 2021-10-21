@@ -45,7 +45,11 @@ Review the tasks you can help with above, and here are the projects in progress 
 * Git Hub Scribe: Rebecca Tasetano
 * Team Leaders: Bill Florio, Rebecca Tasetano, Eric Steeves
 
-What we accomplished:
+Script audio recorded:
+* Install PMM
+* Report Workbook Overview
+
+Scripts Written:
 * Gift Entry: Configure Gift Entry (Moved to Peer Review)
 * PMM: Setting up Programs, Services, and Cohorts
 * Gift Entry for Single Gifts
