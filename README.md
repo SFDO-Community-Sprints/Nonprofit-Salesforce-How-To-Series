@@ -26,8 +26,8 @@ View the scripts in our current backlog [here](https://github.com/SFDO-Community
 * Dutch
 * Hebrew
 
-### Do a part of the Annual Video Review Project
-Watch a 2-3 minute video and follow along in Salesforce, taking notes on any changes needed. View the tracking document [here](https://docs.google.com/spreadsheets/d/1ESTsr5OOnPXPfB2KTPOCDP0YfT3esYZWDdy_9yaAPbo/edit?ts=5f6b8d20#gid=1443784001)
+### Help identify missing videos
+Process TBD at Feb 2022 mini-sprint.
 
 ### Record Narration on Videos
 Here are some of the videos that will soon need narration. Anyone with a decent internet connection, a headset with a good mic, and a confortable speaking voice can volunteer. We usually record some scripts at every sprint.
