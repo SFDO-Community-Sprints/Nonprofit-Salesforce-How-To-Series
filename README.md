@@ -40,6 +40,16 @@ Review the tasks you can help with above, and here are the projects in progress 
 * Put your voice in shining lights! Record narration for existing videos in progress (Headset required)
 * Join our translation team! 
 -------------------------------------------------
+## May 2022 Spring
+* Contributers: Karen Sabog, Melanie Greene, CJ Wilkerson, Akash Mishra, Sowmya Bhat, Marc Baizman, Akash Mishra, Melissa Hill Dees, Ruby Menon, Clair Lam, Heath Parks
+* Team Leaders: Bill Florio, Rebecca Tasetano, Emma Keeling
+
+* Melanie reviewed the script for Consent Management for Nonprofit Success Pack.
+* Karen Sabog reviewed the script PMM: Work with Services – Part 1 #138.
+* Sowmya Bhat - Reviewed and edited the script PMM: Work with Services – Part 2 #149
+* CJ’s reviewing two Gift Entry drafts #73 and #74
+
+
 ## October 2021 Sprint
 * Contributers: CJ Wilkerson, Emma Keeling, Ruby Menon, Sue Pippel, John Sim, Erika Walcott, Spencer
 * Git Hub Scribe: Rebecca Tasetano
