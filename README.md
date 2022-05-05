@@ -40,7 +40,7 @@ Review the tasks you can help with above, and here are the projects in progress 
 * Put your voice in shining lights! Record narration for existing videos in progress (Headset required)
 * Join our translation team! 
 -------------------------------------------------
-## May 2022 Spring
+## May 2022 Sprint
 * Contributers: Karen Sabog, Melanie Greene, CJ Wilkerson, Akash Mishra, Sowmya Bhat, Marc Baizman, Akash Mishra, Melissa Hill Dees, Ruby Menon, Clair Lam, Heath Parks
 * Team Leaders: Bill Florio, Rebecca Tasetano, Emma Keeling
 
