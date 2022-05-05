@@ -48,7 +48,7 @@ Review the tasks you can help with above, and here are the projects in progress 
 * Karen Sabog reviewed the script PMM: Work with Services – Part 1 #138
 * Sowmya Bhat - Reviewed and edited the script PMM: Work with Services – Part 2 #149
 * CJ’s reviewing two Gift Entry drafts #73 and #74
-* Akash peer reviewed '5 Steps to getting the most from the Salesforce release' #41 and 'TDTM...' #55
+* Akash peer reviewed '5 Steps to getting the most from the Salesforce release' #41
 
 
 ## October 2021 Sprint
