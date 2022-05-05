@@ -44,8 +44,8 @@ Review the tasks you can help with above, and here are the projects in progress 
 * Contributers: Karen Sabog, Melanie Greene, CJ Wilkerson, Akash Mishra, Sowmya Bhat, Marc Baizman, Akash Mishra, Melissa Hill Dees, Ruby Menon, Clair Lam, Heath Parks
 * Team Leaders: Bill Florio, Rebecca Tasetano, Emma Keeling
 
-* Melanie reviewed the script for Consent Management for Nonprofit Success Pack.
-* Karen Sabog reviewed the script PMM: Work with Services – Part 1 #138.
+* Melanie reviewed the script for Consent Management for Nonprofit Success Pack
+* Karen Sabog reviewed the script PMM: Work with Services – Part 1 #138
 * Sowmya Bhat - Reviewed and edited the script PMM: Work with Services – Part 2 #149
 * CJ’s reviewing two Gift Entry drafts #73 and #74
 
