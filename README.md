@@ -41,14 +41,16 @@ Review the tasks you can help with above, and here are the projects in progress 
 * Join our translation team! 
 -------------------------------------------------
 ## May 2022 Sprint
-* Contributers: Karen Sabog, Melanie Greene, CJ Wilkerson, Akash Mishra, Sowmya Bhat, Marc Baizman, Akash Mishra, Melissa Hill Dees, Ruby Menon, Clair Lam, Heath Parks
+* Contributers: Karen Sabog, Melanie Greene, CJ Wilkerson, Akash Mishra, Sowmya Bhat, Marc Baizman, Akash Mishra, Melissa Hill Dees, Ruby Menon, Clair Lam, Heath Parks, TJ Warfield
 * Team Leaders: Bill Florio, Rebecca Tasetano, Emma Keeling
 
 * Melanie reviewed the script for Consent Management for Nonprofit Success Pack
-* Karen Sabog reviewed the script PMM: Work with Services – Part 1 #138
-* Sowmya Bhat - Reviewed and edited the script PMM: Work with Services – Part 2 #149
+* Karen Sabog reviewed the script PMM: Work with Services – Part 1 #138, reviewed the script Advanced Mapping... #81
+* Sowmya Bhat - Reviewed and edited the script PMM: Work with Services – Part 2 #149 - and reviewed configure batch numbers #139
 * CJ’s reviewing two Gift Entry drafts #73 and #74
 * Akash peer reviewed '5 Steps to getting the most from the Salesforce release' #41
+* Emma reviewed the re-review of Account Soft credits #60 - potential for move of video and new video
+* TJ reviewed and updated Advanced Mapping #81
 
 
 ## October 2021 Sprint
