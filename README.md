@@ -1,4 +1,4 @@
-# NPSP-Videography
+# Nonprofit Salesforce How-To Series
 
 Welcome to the NPSP Videography repository! 
 
