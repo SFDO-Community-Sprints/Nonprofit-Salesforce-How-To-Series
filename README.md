@@ -1,8 +1,8 @@
 # Nonprofit Salesforce How-To Series
 
-Welcome to the NPSP Videography repository! 
+Welcome to the Nonprofit Salesforce How-To Series repository! 
 
-Here we will be tracking the work of the Power of Us Community Project, which creates short, digestible NPSP How-To videos from NPSP documentation. This project is community led with the help, support, and encouragement of our allies at Salesforce.org. Watch this space for ways you can help!
+Here we will be tracking the work of the Open Source Commons project, which creates short, digestible NPSP How-To videos from NPSP documentation. This project is community led with the help, support, and encouragement of our allies at Salesforce.org. Watch this space for ways you can help!
 
 Volunteer and join the discussion on the [Trailblazer Community](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kHiqSAE)
 
