@@ -39,6 +39,16 @@ Review the tasks you can help with above, and here are the projects in progress 
 * Review the existing videos for updates and changes (this is a great project for someone with less time)
 * Put your voice in shining lights! Record narration for existing videos in progress (Headset required)
 * Join our translation team! 
+
+-------------------------------------------------
+## January 2023 London Sprint
+* Contributers: Yvonne Small, Louise Lockie, Gin Matharu, Deepthi Kudrathayan, Anvi Patel, Dan Kingsley & Keith Finley
+* Team Leader: Emma Keeling
+
+* We reviewed one of the tickets for Configuring Payments and this was split into 3 videos
+* We wrote 7 scripts (with a few still being finalised!), Peer reviewed 6 scripts, Re-wrote 1 script (Batch Gift Entry - Big thanks to Dan Kingsley who gave his time from another team to assist) 
+* We created a group of keen sprinters, 4 of whom have joined the slack script writer channel and may potentially join future mini sprints
+
 -------------------------------------------------
 ## May 2022 Sprint
 * Contributers: Karen Sabog, Melanie Greene, CJ Wilkerson, Akash Mishra, Sowmya Bhat, Marc Baizman, Akash Mishra, Melissa Hill Dees, Ruby Menon, Clair Lam, Heath Parks, TJ Warfield
