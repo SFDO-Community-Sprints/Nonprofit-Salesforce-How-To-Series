@@ -8,12 +8,6 @@ Volunteer and join the discussion on the [Trailblazer Community](https://trailhe
 
 [NPSP How-To Video Youtube Channel](https://www.youtube.com/channel/UC8kDDLRZzDdOBS24al99Kag)
 
-##Resources
-How to Wriite a script
-[https://drive.google.com/drive/folte a scriders/0BwZteUJSqsSoV1Y1Ui1NUUdNNDg?resourcekey=0-nqKGM7C7K97PzLHf2MocoA](https://drive.google.com/drive/folders/0BwZteUJSqsSoV1Y1Ui1NUUdNNDg?resourcekey=0-nqKGM7C7K97PzLHf2MocoA)
-
-Project Scrum
-https://github.com/SFDO-Community-Sprints/Nonprofit-Salesforce-How-To-Series/projects/4
 
 Starting in 2021, we will begin managing our open projects here in github. Head to the [Projects](https://github.com/SFDO-Community-Sprints/NPSP-Videography/projects) tab to see what's in the works! Please excuse our dust-- volunteers to add to documentation & processes welcome!
 
