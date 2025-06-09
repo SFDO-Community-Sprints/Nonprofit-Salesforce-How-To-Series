@@ -42,6 +42,15 @@ Review the tasks you can help with above, and here are the projects in progress 
 * Join our translation team! 
 
 -------------------------------------------------
+## June 2025 London Sprint
+* Contributers: Rosi Callery, Simon des Forges, Nitzan Marinov, Jonathan Elder
+* Team Leader: Emma Keeling
+
+* We reviewed three of the UnofficialSF scripts to see how accurate the instructions provided by ChatGPT are based on the prompt created at the March 2023 sprint - one of these is now ready for final review and recording. We identified that ChatGPT struggled with the other two.
+* Simon is experimenting with an LLM that can look at the metadata and work out the instructions for the UnofficalSF components to be used along side the documentation on the UnofficialSF site. The documentation alone is a little brief and inconsistent, so not giving great results.
+* We spoke to the DLRS team and created a backlog of 5 tickets for videos they would like creating - they have written the script for one of these and will be responsible for the other four.
+
+-------------------------------------------------
 ## January 2023 London Sprint
 * Contributers: Yvonne Small, Louise Lockie, Gin Matharu, Deepthi Kudrathayan, Anvi Patel, Dan Kingsley & Keith Finley
 * Team Leader: Emma Keeling
