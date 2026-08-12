@@ -22,4 +22,22 @@ This template allows you to automatically generate a fully-synced DaVinci Resolv
    ```
 4. **Import:** The script will create a new folder called `Output_Package`. Open DaVinci Resolve, go to **File > Import > Timeline...** and select `resolve_timeline.xml`.
 
+## Formatting the Script (config.json)
+
+The `config.json` file is where you feed the AI both your voiceover text and the timing for your screenshots. 
+
+For each "scene" in your video, you create a segment block. The Python script will **automatically generate the high-quality neural voiceover audio** for whatever text you type, and then it will perfectly time the images you list to match the duration of that audio!
+
+Here is how to format a segment:
+```json
+{
+  "text": "This is the text the AI voiceover will read out loud for this specific scene.",
+  "images": [
+    "screenshot_1.jpg", 
+    "screenshot_2.jpg"
+  ]
+}
+```
+*Note: If you list multiple images in a single segment (like above), the Python script will automatically divide the screen time evenly between them while the voiceover plays!*
+
 Your entire video will be instantly assembled on the timeline, with high-quality neural voiceovers and editable text titles!
