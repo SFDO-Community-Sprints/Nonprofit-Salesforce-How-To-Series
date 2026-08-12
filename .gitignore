@@ -1,0 +1,7 @@
+# Ignore generated outputs
+Output_Package/
+__pycache__/
+*.pyc
+
+# Do not ignore assets
+!assets/

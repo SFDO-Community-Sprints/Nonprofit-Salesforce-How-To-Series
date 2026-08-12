@@ -1,0 +1,46 @@
+{
+  "project_name": "What Is DLRS",
+  "intro_duration_seconds": 5,
+  "intro_title": "What Is DLRS?",
+  "intro_background": "title_background.jpg",
+  "end_credits_duration_seconds": 10,
+  "end_credits_text": "CREDITS\nDirector: Jane Doe\nWriter: John Smith",
+  "segments": [
+    {
+      "text": "While sometimes it seems Salesforce is always the best friend of the declarative admin, sometimes Salesforce just ignores us and pretends everyday business needs just don't exist.",
+      "images": ["screen_intro_tabs.jpg"]
+    },
+    {
+      "text": "Salesforce has a roll-up summary field type but it feels more like the promise of waterbeds, segways and gourmet microwave cuisine.",
+      "images": ["screen_rollup_summary.jpg", "screen_label_desc.jpg", "screen_fail_stamp.jpg"]
+    },
+    {
+      "text": "Let's say we have to calculate child records, or find the latest record in a related list, aggregate data across a lookup relationship, not a master detail? Traditionally, this means custom Apex code, flow automation that hits limits, or triggers. That's where DLRS comes in!",
+      "images": ["sfdx_placeholder.png"]
+    },
+    {
+      "text": "The Declarative Lookup Rollup Summary Tool, DLRS or Dolores for short, is an open-source tool that allows us to create rollup summaries across non-master-detail relationships using clicks not code and without even needing to know flow builder.",
+      "images": ["ronco_placeholder.png"]
+    },
+    {
+      "text": "Plus, Dolores has more power than standard rollup summary fields, including the ability to Concatenate and use relative date filters. It's a huge time-saver and makes complex reporting and automation much simpler.",
+      "images": ["features_placeholder.png"]
+    },
+    {
+      "text": "Building a new DLRS rollup is four simple steps: 1. Specify the parent and child objects. 2. Define the field on the child that you want to summarize. 3. Indicate a target field on the parent to hold the result. 4. And choose the type of aggregation, such as MIN, MAX, SUM, or CONCATENATE. DLRS does the rest!",
+      "images": ["steps_placeholder.png"]
+    },
+    {
+      "text": "And, unlike standard rollup summaries, you can control when DLRS does its work. If we need recalculation on the parent every time a child changes, set our DLRS to realtime. But perhaps we don't want the system impact of realtime recalculation. Where the calculation could make saves pretty slow on some objects. In that case, you can schedule a full recalculation overnight or monthly.",
+      "images": ["types_placeholder.png"]
+    },
+    {
+      "text": "That's a great way to have relative date rollups, like opportunities this month, reset on the first of of the month! DLRS has even more flexibility around timing of rollup recalculation that we'll cover in future videos.",
+      "images": ["screen_relative_dates.jpg"]
+    },
+    {
+      "text": "The Declarative Lookup Rollup Summary tool is trusted by over 27,000 Salesforce organizations, it's regularly maintained by the community, and it's a fantastic tool for extending Salesforce's declarative capabilities. If you've ever hit a wall with standard rollups, DLRS is your answer.",
+      "images": ["world_heatmap.jpg"]
+    }
+  ]
+}
