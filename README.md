@@ -1,5 +1,7 @@
 # DaVinci Resolve AI Video Template
 
+*(🚀 Fully Cross-Platform: Works identically on Windows, macOS, and Linux)*
+
 This template acts as an automated "video factory" that transforms a simple text script into a fully-synced, professional DaVinci Resolve timeline with high-quality neural voiceovers and editable titles!
 
 ## How It Works (The AI Engine)
