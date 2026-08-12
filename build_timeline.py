@@ -2,6 +2,21 @@ import os
 import json
 import shutil
 import subprocess
+import sys
+
+def install_dependencies():
+    print("Checking dependencies...")
+    try:
+        import edge_tts
+        import mutagen
+        from PIL import Image
+    except ImportError:
+        print("Missing required libraries. Installing them automatically now...")
+        subprocess.run([sys.executable, "-m", "pip", "install", "edge-tts", "mutagen", "Pillow"], check=True)
+        print("Dependencies installed successfully!")
+
+# Ensure dependencies are installed before importing them
+install_dependencies()
 from mutagen.mp3 import MP3
 
 def build():
