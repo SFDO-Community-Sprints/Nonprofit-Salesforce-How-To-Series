@@ -3,5 +3,13 @@ Output_Package/
 __pycache__/
 *.pyc
 
-# Do not ignore assets
+# Ignore heavy video renders
+*.mp4
+*.mov
+*.avi
+*.mkv
+assets/*.mp4
+assets/*.mov
+
+# Do not ignore assets directory
 !assets/
